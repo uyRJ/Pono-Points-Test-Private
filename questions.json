@@ -22,7 +22,7 @@
     "choice3": "Place all waste in trash cans and pack out trash from wilderness parks",
     "choice4": "All of the above",
     "answer": 4
-  }
+  },
   {
     "question": "How close can an individual be to a sea turtle?",
     "choice1": "10 feet",
@@ -30,7 +30,7 @@
     "choice3": "15 feet",
     "choice4": "20 feet",
     "answer": 1
-  }
+  },
   {
     "question": "How close can an individual be to a Hawaiian monk seal?",
     "choice1": "50 feet",
@@ -38,7 +38,7 @@
     "choice3": "35 feet",
     "choice4": "90 feet",
     "answer": 1
-  }
+  },
   {
     "question": "Which of the following is not a punishable offense regarding the use of vehicles?",
     "choice1": "Using a counterfeit parking sticker",
@@ -46,7 +46,7 @@
     "choice3": "Tampering with parking pay stations",
     "choice4": "Parking outside the markings of a paid parking stall",
     "answer": 2
-  }
+  },
   {
     "question": "When disposing of trash, what should you not do?",
     "choice1": "Dispose it in appropriate receptacles",
@@ -54,7 +54,7 @@
     "choice3": "Throw it in bodies of water",
     "choice4": "Avoid producing a foul odor",
     "answer": 3
-  }
+  },
   {
     "question": "What activity is prohibited in a natural reserve?",
     "choice1": "Hunting",
