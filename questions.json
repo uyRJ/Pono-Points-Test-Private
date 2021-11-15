@@ -1,26 +1,66 @@
 [
   {
-    "question": "Inside which HTML element do we put the JavaScript??",
-    "choice1": "<script>",
-    "choice2": "<javascript>",
-    "choice3": "<js>",
-    "choice4": "<scripting>",
+    "question": "Up to how many sea cucumbers can a person take or posses per day for personal use or human consumption?",
+    "choice1": "10",
+    "choice2": "25",
+    "choice3": "5",
+    "choice4": "15",
     "answer": 1
   },
   {
-    "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    "choice1": "<script href='xxx.js'>",
-    "choice2": "<script name='xxx.js'>",
-    "choice3": "<script src='xxx.js'>",
-    "choice4": "<script file='xxx.js'>",
+    "question": "Fill in the blank: Hunting hours are permitted from ____ to _____",
+    "choice1": "an hour before sunrise, half an hour after sunset",
+    "choice2": "10 A.M., 5 P.M.",
+    "choice3": "one-half hour before sunrise, one-half hour after sunset",
+    "choice4": "6 A.M., 6 P.M.",
     "answer": 3
   },
   {
-    "question": " How do you write 'Hello World' in an alert box?",
-    "choice1": "msgBox('Hello World');",
-    "choice2": "alertBox('Hello World');",
-    "choice3": "msg('Hello World');",
-    "choice4": "alert('Hello World');",
+    "question": "Which of these state park rules are in effect?",
+    "choice1": "The use, launching or landing of drones or other types of aircraft is prohibited",
+    "choice2": "Metal detecting devices are allowed on sand beaches only",
+    "choice3": "Place all waste in trash cans and pack out trash from wilderness parks",
+    "choice4": "All of the above",
     "answer": 4
+  }
+  {
+    "question": "How close can an individual be to a sea turtle?",
+    "choice1": "10 feet",
+    "choice2": "30 feet",
+    "choice3": "15 feet",
+    "choice4": "20 feet",
+    "answer": 1
+  }
+  {
+    "question": "How close can an individual be to a Hawaiian monk seal?",
+    "choice1": "50 feet",
+    "choice2": "120 feet",
+    "choice3": "35 feet",
+    "choice4": "90 feet",
+    "answer": 1
+  }
+  {
+    "question": "Which of the following is not a punishable offense regarding the use of vehicles?",
+    "choice1": "Using a counterfeit parking sticker",
+    "choice2": "Paying posted fees",
+    "choice3": "Tampering with parking pay stations",
+    "choice4": "Parking outside the markings of a paid parking stall",
+    "answer": 2
+  }
+  {
+    "question": "When disposing of trash, what should you not do?",
+    "choice1": "Dispose it in appropriate receptacles",
+    "choice2": "Seal bags of garbage tightly",
+    "choice3": "Throw it in bodies of water",
+    "choice4": "Avoid producing a foul odor",
+    "answer": 3
+  }
+  {
+    "question": "What activity is prohibited in a natural reserve?",
+    "choice1": "Hunting",
+    "choice2": "Hiking",
+    "choice3": "Sight-seeing",
+    "choice4": "Camping",
+    "answer": 3
   }
 ]
